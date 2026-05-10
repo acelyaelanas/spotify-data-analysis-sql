@@ -26,3 +26,11 @@ Projede aşağıdaki tablolar oluşturulmuştur:
 - `schema.sql` → tablo yapıları
 - `insert_data.sql` → örnek veriler
 - `analysis_queries.sql` → SQL analiz sorguları
+
+## Proje Görselleri 📊
+
+### Most Popular Artists Analysis
+![Most Popular Artists](most-popular-artists.png)
+
+### Most Played Songs Analysis
+![Most Played Songs](most-played-songs.png)
